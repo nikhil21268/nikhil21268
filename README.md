@@ -1,6 +1,6 @@
 ### Hi there 👋, Nikhil Suri
 #### Programming and Software Development
-![Programming and Software Development](https://drive.google.com/file/d/1Ji1sRQcFIpXaWxPfxr-Z4bOIFqBRvqAY/view?usp=sharing)
+![Programming and Software Development](Banner.png)
 
 I'm Nikhil from India, and I love to code. I really enjoy learning and implementing concepts in different programming languages such as Java, C, C++, and Python. I also enjoy working with the latest tools and technologies in Machine Learning and Artificial Intelligence in general.
 
