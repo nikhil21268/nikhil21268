@@ -5,13 +5,10 @@
 I'm Nikhil from India, and I love to code. I really enjoy learning and implementing concepts in different programming languages such as Java, C, C++, and Python. I also enjoy working with the latest tools and technologies in Machine Learning and Artificial Intelligence in general.
 
 ## Skills and Experience
-* 🖥️ Java, C, Python, C++, MySQL, Machine Learning, JavaScript, HTML, CSS
+* 🖥️ Java, C, Python, C++, MySQL, Machine Learning, JavaScript, HTML, CSS.
 * 🔭 I’m currently working on an NLP project. 
-* 🌱 I’m currently learning NLP and Distributed Systems
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
+* 🌱 I’m currently learning NLP and Distributed Systems.
+* 
 <p align="left">
 </p>
 
