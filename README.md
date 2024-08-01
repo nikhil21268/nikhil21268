@@ -28,7 +28,6 @@ My journey in tech started from a young age and has spanned various domains incl
 
 #### Connect with Me 📬
 - [🔗 LinkedIn](https://www.linkedin.com/in/-nikhil-suri/)
-- [💻 GitHub](https://github.com/nikhil21268)
 - [📧 Email](mailto:nikhil21268@iiitd.ac.in)
 
 Looking forward to making a positive impact through technology. Let's connect and explore opportunities together!
