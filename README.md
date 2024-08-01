@@ -1,19 +1,33 @@
+### 👋 Hi, I'm Nikhil Suri!
+
+I'm an aspiring software engineer from India, deeply passionate about technology, finance, and education. Currently a BTech student at IIIT Delhi, I'm focused on leveraging advanced technologies in Machine Learning and Artificial Intelligence to solve real-world problems and enhance our everyday lives.
+
+#### About Me
+My journey in tech started from a young age and has spanned various domains including cybersecurity, network security, and distributed systems. My academic background in Computer Science and Applied Mathematics complements my technical skills, allowing me to approach problems with a balanced perspective of theory and practical application. 
+
+#### Technical Skills 🛠️
+- **Languages**: Java, Python, C, C++, HTML, CSS
+- **Frameworks & Libraries**: Flask, TensorFlow, PyTorch, scikit-learn, XGBoost
+- **Tools & Platforms**: Git, GitHub, MySQL, Linux, Google Cloud, AWS, Docker
+- **Data Science & AI**: Proficient in machine learning, neural networks, and data analysis.
+
+#### Key Projects 📚
+- **Language Summarization Model**: Developed NLP models for summarizing news articles in Hindi based on Transformer Architectures.
+- **Encrypted Data Transfer**: Created a system for securely sending encrypted data such as text, PDFs and images across networks.
+- **E-Commerce Store Development**: Built a full-stack e-commerce store, focusing on both front-end and back-end development.
+
+#### Leadership & Advocacy 🌟
+- **Educational Volunteer**: Contributed over 80 hours tutoring underprivileged students, demonstrating my commitment to community service and education.
+- **Team Leader at IIIT Delhi**: Led various projects to successful completion, often exceeding academic expectations with innovative solutions.
+
+#### Professional Goals 🚀
+- **Career Development**: Aiming to advance my career in software development, especially in areas that merge AI with practical applications like finance and ecommerce.
+- **Continuous Learning**: Dedicated to continuous professional development by staying updated with the latest technological advancements.
+
+#### Connect with Me 📬
+- [🔗 LinkedIn](https://www.linkedin.com/in/-nikhil-suri/)
+- [💻 GitHub](https://github.com/nikhil21268)
+
+Looking forward to making a positive impact through technology. Let's connect and explore opportunities together!
 
 ![Programming and Software Development](SecondBanner.png)
-
-# Nikhil Suri
-
-I'm Nikhil from India, and I love to code. I really enjoy learning and implementing concepts in different programming languages such as Java, C, C++, and Python. I also enjoy working with the latest tools and technologies in Machine Learning and Artificial Intelligence in general.
-
-## Skills and Experience
-* 🖥️ Java, C, Python, C++, MySQL, Machine Learning, JavaScript, HTML, CSS.
-* 🔭 I’m currently working on an NLP project. 
-* 🌱 I’m currently learning NLP, Network Security and Distributed Systems.
-
-## Languages and Tools
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/-nikhil-suri/)  
-
