@@ -1,3 +1,6 @@
+
+![Programming and Software Development](SecondBanner.png)
+
 # Nikhil Suri
 
 I'm Nikhil from India, and I love to code. I really enjoy learning and implementing concepts in different programming languages such as Java, C, C++, and Python. I also enjoy working with the latest tools and technologies in Machine Learning and Artificial Intelligence in general.
@@ -14,4 +17,3 @@ I'm Nikhil from India, and I love to code. I really enjoy learning and implement
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/-nikhil-suri/)  
 
-![Programming and Software Development](SecondBanner.png)
