@@ -1,8 +1,6 @@
 ![Programming and Software Development](SecondBanner.png)
 
-## 👋 Hi, I'm Nikhil Suri!
-
-I'm an aspiring software engineer from India, deeply passionate about technology, finance, and education. Currently a BTech student at IIIT Delhi, I'm focused on leveraging advanced technologies in Machine Learning and Artificial Intelligence to solve real-world problems and enhance our everyday lives.
+👋 Hi, I'm Nikhil Suri! I'm an aspiring software engineer from India, deeply passionate about technology, finance, and education. Currently a BTech student at IIIT Delhi, I'm focused on leveraging advanced technologies in Machine Learning and Artificial Intelligence to solve real-world problems and enhance our everyday lives.
 
 ## About Me
 My journey in tech started from a young age and has spanned various domains including cybersecurity, network security, and distributed systems. My academic background in Computer Science and Applied Mathematics complements my technical skills, allowing me to approach problems with a balanced perspective of theory and practical application. 
