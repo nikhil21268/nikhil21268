@@ -3,7 +3,7 @@
 👋 Hi, I'm Nikhil! I'm a software engineer from India, deeply passionate about technology and finance. I'm currently a BTech student at IIIT Delhi, focused on leveraging advanced technologies like Machine Learning and Artificial Intelligence to solve real-world problems.
 
 ## About Me
-My journey in tech started from a young age and has spanned various domains including cybersecurity, natural language processing, wireless networks, cloud and distributed systems. My academic background in Computer Science and Applied Mathematics complements my technical skills, allowing me to approach problems with a balanced view of theory and practical application. 
+My journey in tech has spanned various domains including cybersecurity, natural language processing, wireless networks, cloud and distributed systems. My academic background in Computer Science and Applied Mathematics complements my technical skills, allowing me to approach problems with a balanced view of theory and practical application. 
 
 ## Technical Skills 🛠️
 - **Languages**: Java, Python, C, HTML, CSS
