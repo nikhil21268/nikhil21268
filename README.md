@@ -1,4 +1,4 @@
-![Programming and Software Development](SecondBanner.png)
+![Programming and Software Development](SecondBanner.jpeg)
 
 👋 Hi, I'm Nikhil! I'm a software engineer from India, deeply passionate about technology and finance. I'm currently a BTech student at IIIT Delhi, focused on leveraging advanced technologies like Machine Learning and Artificial Intelligence to solve real-world problems.
 
