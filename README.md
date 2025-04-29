@@ -1,29 +1,62 @@
-![Programming and Software Development](SecondBanner.jpeg)
+---
 
-👋 Hi, I'm Nikhil! I'm a software engineer from India, deeply passionate about technology and finance. I'm currently a BTech student at IIIT Delhi, focused on leveraging advanced technologies like Machine Learning and Artificial Intelligence to solve real-world problems.
+![Programming and System Design](SecondBanner.jpeg)
 
-## About Me
-My journey in tech has spanned various domains including cybersecurity, natural language processing, wireless networks, cloud and distributed systems. My academic background in Computer Science and Applied Mathematics complements my technical skills, allowing me to approach problems with a balanced view of theory and practical application. 
+# 👋 Hi, I'm Nikhil!
 
-## Technical Skills 🛠️
-- **Languages**: Java, Python, C, HTML, CSS
-- **Frameworks & Libraries**: Flask, TensorFlow, PyTorch, scikit-learn, XGBoost
-- **Tools & Platforms**: Git, GitHub, MySQL, Linux, Google Cloud, AWS, Docker
-- **Data Science & AI**: Proficient in machine learning, neural networks, and data analysis.
+I'm a Computer Science and Applied Mathematics undergraduate at IIIT Delhi, passionate about building robust systems at the intersection of **technology**, **finance**, and **machine learning**.  
+I enjoy blending theory with practical engineering to create scalable, efficient solutions.
 
-## Key Projects 📚
-- **Language Summarization Model**: Developed NLP models for summarizing news articles in Hindi based on Transformer Architectures.
-- **Encrypted Data Transfer**: Created a system for securely sending encrypted data such as text, PDFs and images across a network.
-- **E-Commerce Store Development**: Built a full-stack e-commerce store, focusing on both front-end and back-end development.
+---
 
-## Leadership & Advocacy 🌟
-- **Educational Volunteer**: Contributed over 80 hours to community service via tutoring underprivileged students.
-- **Team Leader at IIIT Delhi**: Practically lead all my projects at IIIT Delhi to successful completion, often exceeding academic expectations with innovative solutions.
+## 🔹 About Me
+- 📚 Academic foundation in Computer Science, Applied Math, and Systems Design.
+- 🛠️ Experience across **NLP**, **wireless networks**, **distributed systems**, **cloud platforms**, and **simulation modeling**.
+- 🔬 Projects range from **Hindi summarization models**, **pathloss prediction using deep learning**, **secure document timestamping**, to **system-level simulation using gem5-X**.
+- 🧠 Always exploring new ways to apply technology to real-world challenges.
 
-## Professional Goals 🚀
-- **Career Development**: Aiming to advance my career in software development, especially in areas that merge AI and finance.
-- **Continuous Learning**: Dedicated to continuous professional development by staying relevant and updated via online certification courses.
+---
 
-## Connect with Me 📬
+## 🔹 Technical Skills
+- **Languages**: Python, Java, and C
+- **Frameworks/Libraries**: PyTorch, TensorFlow, and scikit-learn
+- **Cloud & Tools**: Google Cloud, MySQL, Git, Linux
+- **Areas**: Machine Learning, NLP, Wireless Communication Modeling, Cloud Systems, Distributed Computing
+
+---
+
+## 🔹 Selected Projects
+- **🔗 Hindi News Summarization**  
+  Built Transformer-based NLP models for abstractive summarization in Hindi; achieved significant improvements in ROUGE and BERTScore metrics.
+  
+- **🔒 Secure Encrypted Document Transfer**  
+  Developed a gRPC-based system using RSA encryption for secure PDF/JPG timestamping and verification.
+
+- **📡 Wireless Network Performance Analysis**  
+  Analyzed signal strength and bitrates using Scapy and Wireshark; modeled wireless communication metrics under varying real-world conditions.
+
+- **🛒 Real-Time E-Commerce Application**  
+  Deployed a scalable e-commerce store on Google Cloud, focusing on backend resilience and API design.
+
+- **🖥️ System-Level Simulation with gem5-X**  
+  Modeled CPU microarchitectures using gem5-X; worked with Linux kernel images and device trees for custom system simulation.
+
+---
+
+## 🔹 Leadership & Initiatives
+- Led multiple academic and independent projects, often setting up the architecture, workflows, and evaluation strategies.
+- Volunteered 80+ hours tutoring underserved students, aiming to bridge educational gaps through mentorship.
+
+---
+
+## 🔹 What I'm Exploring
+- ✨ Applying AI to financial markets and system optimization.
+- ✨ Building intelligent, scalable cloud applications.
+- ✨ Deepening system design and performance modeling skills.
+
+---
+
+## 🔹 Connect with Me
 - [🔗 LinkedIn](https://www.linkedin.com/in/-nikhil-suri/)
-- [📧 Email](mailto:nikhil21268@iiitd.ac.in)
+- [𝕏 X](https://x.com/_nikhil_suri)
+- [📧 Email](mailto:nikhilsuri03@gmail.com)
