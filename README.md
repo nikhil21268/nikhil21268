@@ -56,7 +56,7 @@ I enjoy blending theory with practical engineering to create scalable, efficient
 
 ---
 
-## 🔹 Connect with Me
+## 🔹 Connect with Me!
 - [𝕏 X](https://x.com/_nikhil_suri)
 - [📧 Email](mailto:nikhilsuri03@gmail.com)
 - [🔗 LinkedIn](https://www.linkedin.com/in/-nikhil-suri/)
