@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Nikhil!
 
-I'm a Computer Science and Applied Mathematics graduate at IIIT Delhi, passionate about building robust systems at the intersection of **technology**, **finance**, and **machine learning**.  
+I'm a Computer Science and Applied Mathematics graduate from IIIT Delhi, passionate about building robust systems at the intersection of **technology**, **finance**, and **machine learning**.  
 I enjoy blending theory with practical engineering to create scalable, efficient solutions.
 
 ---
