@@ -4,12 +4,14 @@
 
 # 👋 Hi, I'm Nikhil!
 
-I'm a Computer Science and Applied Mathematics undergraduate at IIIT Delhi, passionate about building robust systems at the intersection of **technology**, **finance**, and **machine learning**.  
+I'm a Computer Science and Applied Mathematics graduate at IIIT Delhi, passionate about building robust systems at the intersection of **technology**, **finance**, and **machine learning**.  
 I enjoy blending theory with practical engineering to create scalable, efficient solutions.
 
 ---
 
 ## 🔹 About Me
+- 💼 Currently working as an **Integration Developer** at Innovation Quotient, focusing on **IT integration** and system interoperability using **Workato**.
+- 📊 Conducted research in **game theory**, decision-making, and wireless signal prediction using **deep learning**.
 - 📚 Academic foundation in Computer Science, Applied Math, and Systems Design.
 - 🛠️ Experience across **NLP**, **wireless networks**, **distributed systems**, **cloud platforms**, and **simulation modeling**.
 - 🔬 Projects range from **Hindi summarization models**, **pathloss prediction using deep learning**, **secure document timestamping**, to **system-level simulation using gem5-X**.
@@ -18,10 +20,11 @@ I enjoy blending theory with practical engineering to create scalable, efficient
 ---
 
 ## 🔹 Technical Skills
+- **Integration Tools**: Workato, REST APIs, SOAP/XML
 - **Languages**: Python, Java, and C
 - **Frameworks/Libraries**: PyTorch, TensorFlow, and scikit-learn
 - **Cloud & Tools**: Google Cloud, MySQL, Git, Linux
-- **Areas**: Machine Learning, NLP, Wireless Communication Modeling, Cloud Systems, Distributed Computing
+- **Areas**: Integration, Machine Learning, NLP, Wireless Communication Modeling, Cloud Systems, Distributed Computing
 
 ---
 
